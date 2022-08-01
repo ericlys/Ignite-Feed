@@ -14,9 +14,9 @@ const posts = [
   {
     id: 1,
     author: {
-      avatarUrl: "http://github.com/ericlys.png",
-      name: "Ericlys Moreira",
-      role: "Developer"
+      avatarUrl: "http://github.com/diego3g.png",
+      name: "Diego Fernandes",
+      role: "CTO @Rocketseat",
     },
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋'},
